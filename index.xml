@@ -1,0 +1,21 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mhc`s Blog on mhc`s Blog</title>
+    <link>https://mhcone.github.io/blog/</link>
+    <description>Recent content in mhc`s Blog on mhc`s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 08 Jan 2020 14:33:53 +0800</lastBuildDate>
+    <atom:link href="/blog/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://mhcone.github.io/blog/posts/</link>
+      <pubDate>Wed, 08 Jan 2020 14:33:53 +0800</pubDate>
+      
+      <guid>https://mhcone.github.io/blog/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
